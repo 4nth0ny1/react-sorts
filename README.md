@@ -1,3 +1,13 @@
+practicing sorts with filtering options.
+
+this app contains dummy data array of objects.
+
+with a resetButton, sortByAge, sortByName, and filterByAge.
+
+When you hit filterByAge, button will disable, until reset and it will modify the list and the sorts will sort based on filtered list.
+
+reset button restores defaults.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
